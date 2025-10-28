@@ -1,4 +1,4 @@
-# WeatherApp
+# C# Weather App
 
 A simple C# Weather Forecast application that fetches and displays current weather and short-term forecasts. Designed to be minimal, cross-platform, and easy to extend.
 
