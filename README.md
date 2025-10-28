@@ -80,7 +80,7 @@ dotnet test
 - Follow existing code style and include API key handling guidance in PRs that add new providers.
 
 ## License
-Specify your license (e.g., MIT) in a LICENSE file.
+MIT license in a LICENSE file.
 
 ## Contact
 For issues or feature requests, open an issue in the repository.
